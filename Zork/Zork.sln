@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.37710.0 d17.14
+VisualStudioVersion = 17.14.37012.4 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zork", "Zork\Zork.csproj", "{30845644-3FDB-4E80-9964-618C6EC03044}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zork", "Zork\Zork.csproj", "{BFE5E286-1833-485A-9574-978372A43B9B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{30845644-3FDB-4E80-9964-618C6EC03044}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{30845644-3FDB-4E80-9964-618C6EC03044}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{30845644-3FDB-4E80-9964-618C6EC03044}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{30845644-3FDB-4E80-9964-618C6EC03044}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFE5E286-1833-485A-9574-978372A43B9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFE5E286-1833-485A-9574-978372A43B9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFE5E286-1833-485A-9574-978372A43B9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFE5E286-1833-485A-9574-978372A43B9B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {1076E730-D5CD-4E96-A3D8-D29C22CE6399}
+		SolutionGuid = {3A6A0A36-AD63-4194-B5F8-3963DBFA194F}
 	EndGlobalSection
 EndGlobal
