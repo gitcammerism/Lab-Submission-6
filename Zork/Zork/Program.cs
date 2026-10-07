@@ -23,7 +23,7 @@ namespace Zork
             "Clearing",
             "Canyon View"
         };
-
+- 
         static void Main(string[] args)
         {
             string currentRoom = Rooms[1]; // west of house
